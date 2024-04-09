@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>twinkleepinkle blog</title>
-    <link>https://twinkleepinkle.github.io/</link>
-    <description>Recent content on twinkleepinkle blog</description>
+    <title>Posts on twinkleepinkle blog</title>
+    <link>https://twinkleepinkle.github.io/posts/</link>
+    <description>Recent content in Posts on twinkleepinkle blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 09 Apr 2024 23:28:37 +0100</lastBuildDate>
-    <atom:link href="https://twinkleepinkle.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://twinkleepinkle.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>This is First Post</title>
       <link>https://twinkleepinkle.github.io/posts/my-first-post/</link>
