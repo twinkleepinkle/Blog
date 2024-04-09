@@ -1,0 +1,5 @@
+baseURL = 'https://twinkleepinkle.github.io/'
+languageCode = 'en-us'
+title = 'twinkleepinkle blog'
+
+theme = 'gohugo-theme-ananke'
